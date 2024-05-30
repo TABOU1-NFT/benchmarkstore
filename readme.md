@@ -1,7 +1,3 @@
-![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/84e9cf72-4a9e-471e-9456-f1ab1db4e5d6)# Benchmarking Store Pages: Distributors vs. Brand-Only Sellers
-
-In this document, we will compare and benchmark current examples of store pages, focusing on the differences between distributors that sell products from various vendors and brands that sell only their own products. Additionally, we will assess the customizability of the product purchase pages for each example.
-
 ## Examples
 
 ### Distributors (Various Vendors)
