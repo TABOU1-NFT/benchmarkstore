@@ -23,6 +23,15 @@ In this document, we will compare and benchmark current examples of store pages,
 - **User Experience**: Ease of use and navigation.
 - **Special Features**: Unique features that enhance the purchasing experience.
 
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/c042d73f-d4b3-4378-842a-0dee41106fba)
+
+- Item shop page
+
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/fecc7441-b997-49c1-9037-75a9f6351afe)
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/a053b406-7a70-4912-8e7b-fcd41dbb37e2)
+
+
 ## Benchmark Analysis
 
 ### itch.io
@@ -32,12 +41,28 @@ In this document, we will compare and benchmark current examples of store pages,
 - **User Experience**: Intuitive and user-friendly.
 - **Special Features**: Community features, game jams, developer logs.
 
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/139e7ca3-944e-4873-a721-2b529cecf38f)
+
+  
+- Item shop page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/242fb84d-ec71-4991-9a31-57d24c750616)
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/8adf67c3-79d7-44ca-9147-080e03f31533)
+
+  
+
 ### steampowered (Steam)
 - **Product Range**: Extensive range of games, software, and digital content.
 - **Vendor Diversity**: High. Numerous developers and publishers.
 - **Customizability of Purchase Page**: Moderate. Limited to game details and visuals.
 - **User Experience**: Robust with comprehensive features.
 - **Special Features**: Achievements, reviews, community forums, mod support.
+
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/271afdba-bfa3-417b-ac80-40be68bb523d)
+
+- Item shop page
+- Item shop page
 
 ### bandcamp
 - **Product Range**: Music, merchandise.
