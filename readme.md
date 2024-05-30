@@ -1,4 +1,4 @@
-# Benchmarking Store Pages: Distributors vs. Brand-Only Sellers
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/84e9cf72-4a9e-471e-9456-f1ab1db4e5d6)# Benchmarking Store Pages: Distributors vs. Brand-Only Sellers
 
 In this document, we will compare and benchmark current examples of store pages, focusing on the differences between distributors that sell products from various vendors and brands that sell only their own products. Additionally, we will assess the customizability of the product purchase pages for each example.
 
@@ -23,13 +23,6 @@ In this document, we will compare and benchmark current examples of store pages,
 - **User Experience**: Ease of use and navigation.
 - **Special Features**: Unique features that enhance the purchasing experience.
 
-- Main page
-![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/c042d73f-d4b3-4378-842a-0dee41106fba)
-
-- Item shop page
-
-![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/fecc7441-b997-49c1-9037-75a9f6351afe)
-![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/a053b406-7a70-4912-8e7b-fcd41dbb37e2)
 
 
 ## Benchmark Analysis
@@ -47,7 +40,8 @@ In this document, we will compare and benchmark current examples of store pages,
   
 - Item shop page
 ![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/242fb84d-ec71-4991-9a31-57d24c750616)
-![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/8adf67c3-79d7-44ca-9147-080e03f31533)
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/2c175087-6fdf-4f2f-b068-31882fb648bb)
+
 
   
 
@@ -59,10 +53,10 @@ In this document, we will compare and benchmark current examples of store pages,
 - **Special Features**: Achievements, reviews, community forums, mod support.
 
 - Main page
-![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/271afdba-bfa3-417b-ac80-40be68bb523d)
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/629ea521-03eb-4751-8e86-cfb291881dbd)
 
 - Item shop page
-- Item shop page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/49e889f2-8539-4dd1-9dee-c35acd8fb6ee)
 
 ### bandcamp
 - **Product Range**: Music, merchandise.
@@ -71,12 +65,28 @@ In this document, we will compare and benchmark current examples of store pages,
 - **User Experience**: Simple and direct.
 - **Special Features**: Direct artist support, pay-what-you-want pricing, subscription options.
 
+- Main page
+  ![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/103be25a-74c6-4f17-9ae9-35303cdefe13)
+
+- Item shop page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/c50f6f58-3f8b-4f90-82f1-05ed486776a3)
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/43d4a210-6408-43c1-8bff-1dac26dabe27)
+
+
+
 ### discogs
 - **Product Range**: Physical and digital music.
 - **Vendor Diversity**: High. Independent sellers and shops.
 - **Customizability of Purchase Page**: Moderate. Sellers can provide detailed listings and images.
 - **User Experience**: Functional but can be cluttered.
 - **Special Features**: Detailed cataloging system, marketplace for rare items.
+
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/59c04ff6-b85b-431b-9440-c4167536b443)
+
+
+- Item shop page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/b2d886d9-2517-438a-acd8-39fb8475763f)
 
 ### pianity
 - **Product Range**: Music NFTs.
@@ -85,6 +95,13 @@ In this document, we will compare and benchmark current examples of store pages,
 - **User Experience**: Emerging, with focus on blockchain technology.
 - **Special Features**: Ownership verification, unique digital art integration.
 
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/1768dca5-1e5e-4a03-81ae-cc35d1a53eff)
+
+- Item shop page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/f5510b0c-a088-4b27-9527-899fac74f22e)
+
+
 ### sound.xyz
 - **Product Range**: Music NFTs.
 - **Vendor Diversity**: High. Various artists and musicians.
@@ -92,12 +109,28 @@ In this document, we will compare and benchmark current examples of store pages,
 - **User Experience**: Modern and streamlined.
 - **Special Features**: Blockchain-backed ownership, exclusive content access.
 
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/087276b4-c623-433f-b3b2-1413ed239fa3)
+
+- Item shop page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/9d855d90-ad72-4f5a-aecb-8296e469cefa)
+
+
 ### Ubisoft Store
 - **Product Range**: Ubisoft games, merchandise.
 - **Vendor Diversity**: Low. Only Ubisoft products.
 - **Customizability of Purchase Page**: Low. Standardized layout for all products.
 - **User Experience**: Consistent and professional.
 - **Special Features**: Ubisoft Connect integration, loyalty rewards.
+
+
+- Main page
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/c042d73f-d4b3-4378-842a-0dee41106fba)
+
+- Item shop page
+
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/fecc7441-b997-49c1-9037-75a9f6351afe)
+![image](https://github.com/TABOU1-NFT/benchmarkstore/assets/75084558/a053b406-7a70-4912-8e7b-fcd41dbb37e2)
 
 ## Summary
 
